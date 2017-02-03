@@ -2,7 +2,7 @@
 module.exports = {
   "rules": {
     "alex": {
-      "severity" : "warning"
+      "allow": ["failed", "failure", "host-hostess", "hostesses-hosts", "slave"]
     },
     "common-misspellings": {
       "ignore": []
