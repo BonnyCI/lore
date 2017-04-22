@@ -1,3 +1,10 @@
+---
+name: lore
+title: lore
+layout: default
+permalink: /lore/
+---
+
 # BonnyCI Documentation
 
 **THIS REPOSITORY IS NOW DEPRECATED AND NO LONGER MAINTAINED. IT HAS MOVED [HERE](https://www.github.com/bonnyci/bonnyci.org)**
